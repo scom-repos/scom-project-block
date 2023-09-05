@@ -61,7 +61,7 @@ define("@scom/scom-project-block/index.css.ts", ["require", "exports", "@ijstech
     exports.projectBlockStyle = components_1.Styles.style({
         display: 'block',
         $nest: {
-            '&.projectBlock-dark--theme': {
+            '&.project-block-dark--theme': {
                 background: '#100c2a',
                 $nest: {
                     'i-label': {
